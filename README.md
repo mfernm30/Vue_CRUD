@@ -9,11 +9,11 @@ This app allow the user to list, add, delete and modify products from a database
 
 ## Technologies
 ### Backend
-    - Node: JavaScript backend framework
-    - Express:
-    - MySQL: database management system
+- Node: JavaScript backend framework
+- Express: manage servers and routes
+- MySQL: database management system
 ### Frontend
-    - Vue: JavaScript framework for building user interfaces
-    - Axios: HTTP Client for making HTTP request from the browser
-    - Bulma: CSS styling framework
+- Vue: JavaScript framework for building user interfaces
+- Axios: HTTP Client for making HTTP request from the browser
+- Bulma: CSS styling framework
 
