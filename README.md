@@ -18,7 +18,7 @@ This app allow the user to list, add, delete and modify products from a database
 - Bulma (v0.9.3): CSS styling framework ([install](https://bulma.io/documentation/overview/start/)).
 
 ## Execution
-To import the database, first create the schema called product, then run the dump_script.sql file.
+To import the database, first create the schema called product, then run dump_script.sql file.
 
 To execute the web app execute the next command and acces to ```http://localhost:8080/```
 ```
