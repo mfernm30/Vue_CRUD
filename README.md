@@ -16,3 +16,11 @@ This app allow the user to list, add, delete and modify products from a database
 - Vue (v3.0.0): JavaScript framework for building user interfaces ([install](https://cli.vuejs.org/)).
 - Axios (v0.26.1): HTTP Client for making HTTP request from the browser ([download](https://www.npmjs.com/package/axios)).
 - Bulma (v0.9.3): CSS styling framework ([install](https://bulma.io/documentation/overview/start/)).
+
+## Execution
+To import the database, first create the schema called product, then run the dump_script.sql file.
+
+To execute the web app execute the next command and acces to ```http://localhost:8080/```
+```
+npm run serve
+```
